@@ -1,0 +1,12 @@
+# Requirements for Medical Image Segmentation
+
+numpy
+opencv-python
+scikit-image
+scikit-learn
+tensorflow
+keras
+matplotlib
+pydicom
+SimpleITK
+nibabel
